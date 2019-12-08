@@ -3,3 +3,7 @@ html {
   color: #6feff9;
   font-family: "Ubuntu Mono", monospace;
 }
+
+svg {
+  color: #fff;
+}
