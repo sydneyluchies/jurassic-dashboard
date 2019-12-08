@@ -4,10 +4,27 @@ html {
   font-family: "Ubuntu Mono", monospace;
 }
 
+li .menu {
+  text-decoration: none;
+}
+
+hr {
+  margin: 0;
+}
+
 h2 {
   color: #f62e52;
   border-color: #ffd31d;
 }
-@keyframes identifier {
+
+@keyframes change-bg-color {
+
+  0% {
+    background-color: red;
+  }
+
+  100% {
+    background-color: blue;
+  }
 
 }
