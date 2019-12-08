@@ -4,6 +4,10 @@ html {
   font-family: "Ubuntu Mono", monospace;
 }
 
+h2 {
+  color: #f62e52;
+  border-color: #ffd31d;
+}
 @keyframes identifier {
 
 }
